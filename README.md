@@ -1,4 +1,4 @@
-# VeraDemo.NET - Blab-a-Gag1
+# VeraDemo.NET - Blab-a-Gag
 
 ## About
 
